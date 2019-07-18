@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="icon.svg" alt="VS Code GNOME theme" width="100" height="100"/><br>
+	<img src="icon.png" alt="VS Code GNOME theme" width="100" height="100"/><br>
 	VSCode GNOME theme
 </h1>
 

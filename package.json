@@ -1,12 +1,16 @@
 {
     "name": "vscode-gnome-theme",
-    "displayName": "VSCode GNOME theme",
-    "description": "A GNOME theme for VSCode",
+    "displayName": "GNOME theme",
+    "description": "A GNOME color theme for VSCode",
     "version": "0.1.0",
     "publisher": "rafaelmardojai",
     "author": "Rafael Mardojai CM",
     "license": "Unlicense",
     "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#15539e",
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.13.0"
     },
