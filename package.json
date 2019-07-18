@@ -1,0 +1,41 @@
+{
+    "name": "vscode-gnome-theme",
+    "displayName": "VSCode GNOME theme",
+    "description": "A GNOME theme for VSCode",
+    "version": "0.1.0",
+    "publisher": "rafaelmardojai",
+    "author": "Rafael Mardojai CM",
+    "license": "Unlicense",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "GNOME dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/gnome-dark.json"
+            }
+        ]
+    },
+    "bugs": {
+        "url": "https://github.com/rafaelmardojai/vscode-gnome-theme/issues"
+    },
+    "homepage": "https://github.com/rafaelmardojai/vscode-gnome-theme/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rafaelmardojai/vscode-gnome-theme.git"
+    },
+    "keywords": [
+        "Vscode",
+        "Theme",
+        "Onedark",
+        "Gnome",
+        "Adwaita",
+        "Dark"
+    ]
+}
