@@ -11,5 +11,3 @@
 <p align="center">Colors based in One Dark for syntax and GTK Adwaita for UI.</p>
 
 ![Screenshot of the theme](screenshot.png)
-
-## Work in progress!!! Not ready!!!.
