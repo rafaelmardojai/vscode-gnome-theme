@@ -11,3 +11,5 @@
 <p align="center">Colors based in One Dark for syntax and GTK Adwaita for UI.</p>
 
 ![Screenshot of the theme](screenshot.png)
+
+Install it from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=rafaelmardojai.vscode-gnome-theme).
