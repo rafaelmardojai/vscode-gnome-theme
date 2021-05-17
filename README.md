@@ -12,4 +12,7 @@
 
 ![Screenshot of the theme](screenshot.png)
 
-Install it from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=rafaelmardojai.vscode-gnome-theme).
+Install it from the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=rafaelmardojai.vscode-gnome-theme) or the [OpenVSX Registry](https://open-vsx.org/extension/rafaelmardojai/vscode-gnome-theme).
+
+## Contribute
+I don't have to much time to actively maintain this theme, so if you can contribute, it will be very welcome :P.
