@@ -17,6 +17,9 @@
 		"menu.selectionForeground": "#ffffff",
 		"menu.separatorBackground": "#00000055",
 
+		"panel.background": "#313131",
+		"panel.border": "#1b1b1b",
+
 		"activityBar.background": "#282828",
 		"activityBar.border": "#1b1b1b",
 		"activityBar.foreground": "#ffffff",
@@ -32,6 +35,7 @@
 		"statusBar.foreground": "#ffffff",
 		"statusBar.border": "#1b1b1b",
 		"statusBarItem.hoverBackground": "#373737",
+		"statusBar.noFolderBackground": "#282828",
 
 		"button.background": "#15539e",
 		"input.background": "#2d2d2d",
@@ -51,14 +55,17 @@
 
 		"editorGroup.background": "#282828",
 		"editorGroup.border": "#1b1b1b",
-		"editorGroupHeader.tabsBackground": "#282828",
+		"editorGroupHeader.tabsBackground": "#262626",
 		"editorGroupHeader.tabsBorder": "#1b1b1b",
+
+		"terminal.background": "#202020",
 
 		"notification.background": "#25252570",
 
 		"tab.activeBackground": "#2e2e2e",
-		"tab.border": "#282828",
-		"tab.inactiveBackground": "#282828",
+		"tab.hoverBackground": "#2d2d2d",
+		"tab.border": "#1b1b1b",
+		"tab.inactiveBackground": "#262626",
 
 		"foreground": "#ffffff",
 		"focusBorder": "#15539e",
