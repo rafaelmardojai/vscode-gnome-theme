@@ -44,6 +44,7 @@
 		"input.background": "#ffffff1a",
 		"dropdown.background": "#ffffff1a",
 		"dropdown.border": "#ffffff00",
+		"dropdown.listBackground": "#383838",
 
 		"list.activeSelectionBackground": "#ffffff1a",
 		"list.activeSelectionForeground": "#ffffff",
