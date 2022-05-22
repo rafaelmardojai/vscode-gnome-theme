@@ -2,7 +2,7 @@
     "name": "vscode-gnome-theme",
     "displayName": "GNOME theme",
     "description": "A GNOME color theme for VSCode",
-    "version": "0.4.0",
+    "version": "0.4.1",
     "publisher": "rafaelmardojai",
     "author": "Rafael Mardojai CM",
     "license": "Unlicense",
