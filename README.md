@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rafaelmardojai/vscode-gnome-theme/master/icon.svg" alt="VS Code GNOME theme" width="128" height="128" align="left"/>
+<img src="https://raw.githubusercontent.com/rafaelmardojai/vscode-gnome-theme/master/icon.png" alt="VS Code GNOME theme" width="128" height="128" align="left"/>
 
 # VSCode GNOME theme
 
